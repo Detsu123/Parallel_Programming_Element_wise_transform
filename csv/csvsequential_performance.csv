@@ -1,0 +1,11 @@
+workload,impl,threads,size,run,elapsed_ms,mode
+matrix,sequential,1,1000,1,1872,performance
+matrix,sequential,1,1000,2,1827,performance
+matrix,sequential,1,1000,3,1803,performance
+matrix,sequential,1,1000,4,1834,performance
+matrix,sequential,1,1000,5,1810,performance
+matrix,sequential,1,1000,6,1809,performance
+matrix,sequential,1,1000,7,1814,performance
+matrix,sequential,1,1000,8,1830,performance
+matrix,sequential,1,1000,9,1811,performance
+matrix,sequential,1,1000,10,1802,performance

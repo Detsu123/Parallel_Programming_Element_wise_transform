@@ -1,0 +1,11 @@
+workload,impl,threads,size,run,elapsed_ms,mode
+matrix,sequential,1,1000,1,3780,balanced
+matrix,sequential,1,1000,2,3658,balanced
+matrix,sequential,1,1000,3,3668,balanced
+matrix,sequential,1,1000,4,3655,balanced
+matrix,sequential,1,1000,5,3654,balanced
+matrix,sequential,1,1000,6,3653,balanced
+matrix,sequential,1,1000,7,3653,balanced
+matrix,sequential,1,1000,8,3662,balanced
+matrix,sequential,1,1000,9,3658,balanced
+matrix,sequential,1,1000,10,3658,balanced
